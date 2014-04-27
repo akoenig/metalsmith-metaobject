@@ -1,4 +1,4 @@
-# metalsmith-metaobject
+# metalsmith-metaobject [![Build Status](https://travis-ci.org/akoenig/metalsmith-metaobject.svg?branch=master)](https://travis-ci.org/akoenig/metalsmith-metaobject)
 
 A plugin to pass an object as metadata to [metalsmith](http://www.metalsmith.io/).
 
