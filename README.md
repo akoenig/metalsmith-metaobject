@@ -2,7 +2,7 @@
 
 A plugin to pass an object as metadata to metalsmith.
 
-_Note:_ If you want to load your metadata from external JSON files consider using [metalsmith-metaobject](https://github.com/segmentio/metalsmith-metadata/).
+_Note:_ If you want to load your metadata from external JSON files consider using [metalsmith-metadata](https://github.com/segmentio/metalsmith-metadata/).
 
 ## Installation
 
