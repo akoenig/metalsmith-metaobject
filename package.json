@@ -1,0 +1,31 @@
+{
+  "name": "metalsmith-metaobject",
+  "description": "A plugin to pass an object as metadata to metalsmith.",
+  "author": {
+    "name": "André König",
+    "email": "andre.koenig@posteo.de"
+  },
+  "version": "0.1.0",
+  "repository": {
+    "url": "git@github.com:akoenig/metalsmith-metaobject.git"
+  },
+  "keywords": [
+    "metalsmith-plugin",
+    "metadata",
+    "meta"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "^3.6.0",
+    "gulp-jshint": "^1.5.0",
+    "gulp-jasmine": "~0.2.0",
+    "metalsmith": "^0.6.0",
+    "metalsmith-markdown": "~0.2.1",
+    "metalsmith-templates": "~0.4.0",
+    "handlebars": "~2.0.0-alpha.2"
+  }
+}
