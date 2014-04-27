@@ -1,6 +1,6 @@
 # metalsmith-metaobject
 
-A plugin to pass an object as metadata to metalsmith.
+A plugin to pass an object as metadata to [metalsmith](http://www.metalsmith.io/).
 
 _Note:_ If you want to load your metadata from external JSON files consider using [metalsmith-metadata](https://github.com/segmentio/metalsmith-metadata/).
 
@@ -22,7 +22,7 @@ Install with [npm](https://npmjs.org/package/metalsmith-metaobject).
                 "name": "André König",
                 "github": "akoenig",
                 "email": "andre.koenig@posteo.de"
-            }
+            },
             "feed": "/atom.xml"
         }
     }
